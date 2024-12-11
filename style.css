@@ -123,4 +123,12 @@ button:focus {
   img {
     border-radius: 0.625rem 0 0 0.625rem;
   }
+
+  h1 {
+    margin: 1.25rem 0 1.5rem 0;
+  }
+
+  .text-content {
+    padding: 2rem;
+  }
 }
